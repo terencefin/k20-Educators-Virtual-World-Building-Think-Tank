@@ -1,0 +1,3993 @@
+{
+  "collisions": "AAEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQABAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAAEBAAAAAAAAAAAAAAEBAAAAAAAAAAAAAAAAAAAAAAABAQEBAQEAAQABAAEBAQABAQEAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQABAAABAQAAAAABAQAAAQAAAQEBAAAAAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAEAAAEBAAAAAAEBAAABAAABAQEAAAABAQEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAQEAAQAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAEBAQEBAQEBAQEBAQEBAQEBAQEBAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAQEBAQEBAQEBAQEBAQEBAAEAAAAAAAAAAAAAAAAAAAAAAAABAQEAAAAAAAAAAAAAAAEBAQEBAQEBAQEAAAAAAAEAAQAAAAAAAQEAAAAAAAAAAAAAAAEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAEAAAEAAAEAAQAAAAAAAAAAAAAAAAEAAAEBAQAAAAEBAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAABAQAAAQEBAAAAAQEBAAAAAQEBAQAAAAAAAAAAAAAAAAAAAAABAAEAAQEBAQAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAQEBAAAAAAAAAAAAAAAAAAAAAAEAAQAAAQAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAEAAAEAAAAAAAAAAAAAAAAAAAAAAQABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAQAAAQAAAAAAAAAAAAAAAAAAAAABAAEAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAABAAABAAABAAAAAAAAAQAAAAAAAAEAAQAAAAAAAAAAAAAAAAEBAQEAAAEBAQEAAAEBAQEAAQEAAAAAAAAAAAAAAAAAAQEBAQABAAAAAAAAAAAAAAABAQEBAQAAAQEBAQAAAQEBAQABAQEAAAAAAAAAAAAAAAEBAQEBAAABAAAAAAAAAAAAAQEAAQEAAAAAAQEAAAABAQEAAAABAQEAAAAAAAAAAAABAQEBAQEAAAEBAQEBAAABAQEBAAAAAAAAAAAAAAAAAAAAAAAAAAEBAQEBAQAAAQEBAQEAAAAAAAAAAQEBAQEAAAEBAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQEBAQEBAAABAQEBAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAABAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=",
+  "portals": [],
+  "spawns": [
+    {
+      "x": 0,
+      "y": 0
+    },
+    {
+      "x": 36,
+      "y": 13
+    },
+    {
+      "y": 13,
+      "x": 37
+    },
+    {
+      "y": 13,
+      "x": 38
+    },
+    {
+      "x": 39,
+      "y": 13
+    },
+    {
+      "x": 39,
+      "y": 14
+    },
+    {
+      "y": 14,
+      "x": 38
+    },
+    {
+      "x": 37,
+      "y": 14
+    },
+    {
+      "x": 36,
+      "y": 14
+    },
+    {
+      "y": 15,
+      "x": 36
+    },
+    {
+      "x": 37,
+      "y": 15
+    },
+    {
+      "y": 15,
+      "x": 38
+    },
+    {
+      "x": 39,
+      "y": 15
+    },
+    {
+      "y": 16,
+      "x": 39
+    },
+    {
+      "y": 16,
+      "x": 38
+    },
+    {
+      "y": 16,
+      "x": 37
+    },
+    {
+      "y": 16,
+      "x": 36
+    },
+    {
+      "x": 36,
+      "y": 17
+    },
+    {
+      "y": 17,
+      "x": 37
+    },
+    {
+      "y": 17,
+      "x": 38
+    },
+    {
+      "x": 39,
+      "y": 17
+    },
+    {
+      "x": 39,
+      "y": 18
+    },
+    {
+      "x": 38,
+      "y": 18
+    },
+    {
+      "y": 18,
+      "x": 37
+    },
+    {
+      "y": 18,
+      "x": 36
+    },
+    {
+      "y": 19,
+      "x": 36
+    },
+    {
+      "y": 19,
+      "x": 37
+    },
+    {
+      "y": 19,
+      "x": 38
+    },
+    {
+      "x": 39,
+      "y": 19
+    }
+  ],
+  "description": "totally blank -- start from scratch!",
+  "dimensions": [
+    50,
+    31
+  ],
+  "id": "custom-entrance",
+  "objects": [
+    {
+      "height": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "distThreshold": 1,
+      "properties": {
+        "url": "https://docs.google.com/document/d/1akz9dQKdKwjHIac5o-B7ef_BhWqLfzYUA-eub2JnBuw/edit?usp=sharing"
+      },
+      "width": 1,
+      "color": "a",
+      "_tags": [
+        "wayfinding"
+      ],
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "scale": 1,
+      "orientation": 0,
+      "type": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "y": 14,
+      "x": 5,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_cc242b4a-5538-406f-bca1-c2561cf6cc1b",
+      "_name": "Blank"
+    },
+    {
+      "distThreshold": "",
+      "x": 37,
+      "offsetX": -9.822227478027344,
+      "width": 1,
+      "objectPlacerId": "BLm1SngGNwO1whkCmB1MoQ1ESaI3",
+      "previewMessage": "Resources",
+      "offsetY": 15.693337440490723,
+      "orientation": 0,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "height": 1,
+      "type": 1,
+      "properties": {
+        "url": ""
+      },
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_2bdb682c-1d45-40d6-8714-30cc23ee3295",
+      "y": 7,
+      "_tags": [
+        "wayfinding"
+      ],
+      "color": "a",
+      "_name": "Blank",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH"
+    },
+    {
+      "height": 1,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "offsetX": -0.8302271366119385,
+      "distThreshold": "2",
+      "properties": {
+        "url": "https://arcg.is/1KiDiX"
+      },
+      "offsetY": -15.218663215637207,
+      "color": "a",
+      "_tags": [
+        "wayfinding"
+      ],
+      "orientation": 0,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "y": 7,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "_name": "Blank",
+      "type": 1,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_9ae699c4-bb22-4ecb-918e-21e43642706a",
+      "objectPlacerId": "BLm1SngGNwO1whkCmB1MoQ1ESaI3",
+      "x": 38,
+      "width": 1,
+      "previewMessage": "The Human Reach"
+    },
+    {
+      "previewMessage": "Resources",
+      "y": 7,
+      "color": "a",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "orientation": 0,
+      "width": 1,
+      "x": 41,
+      "objectPlacerId": "BLm1SngGNwO1whkCmB1MoQ1ESaI3",
+      "properties": {
+        "url": "https://docs.google.com/document/d/1jQ_Syvv97r0x-ndERAUIWNXn21d3Y__Rww68007qLgk/edit?usp=sharing"
+      },
+      "offsetY": 11.661336898803711,
+      "_name": "Blank",
+      "type": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "_tags": [
+        "wayfinding"
+      ],
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_a80c2789-e958-4189-b61a-00e612122c63",
+      "offsetX": -1.406225562095642,
+      "distThreshold": 1,
+      "height": 1
+    },
+    {
+      "y": 24,
+      "previewMessage": "Press x to use shared whiteboard",
+      "height": 2,
+      "_name": "Whiteboard",
+      "templateId": "Whiteboard - tOsOBPYRTh6x_dMv_tzFn",
+      "type": 1,
+      "distThreshold": 1,
+      "scale": 1,
+      "_tags": [
+        "social",
+        "office",
+        "education",
+        "conference",
+        "decoration",
+        "presentation",
+        "appliance",
+        "blackboard",
+        "chalkboard"
+      ],
+      "properties": {
+        "url": "https://app.tryeraser.com/integration/gather/wIqb30zNi3scCnGEtable5",
+        "deterministicUrlPrefix": "https://app.tryeraser.com/integration/gather/"
+      },
+      "x": 20,
+      "width": 2,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FYUriInJLmtzvKgtM?alt=media&token=b8253b33-08a9-4859-867f-909efd5a9bcf",
+      "orientation": 0,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FUuPB6OLZDv1Bz7go?alt=media&token=f430b087-1002-41a2-83bc-4162500fe835",
+      "id": "Whiteboard - tOsOBPYRTh6xdMv_tzFn_c3080f82-c0dd-4c1e-9d1f-ea04b4324aba",
+      "color": "#cbdbfc"
+    },
+    {
+      "type": 1,
+      "scale": 1,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_4dc756db-8e58-43d3-8cea-9eae1d57e9d3",
+      "height": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "_name": "Blank",
+      "properties": {
+        "url": "https://docs.google.com/document/d/1jQ_Syvv97r0x-ndERAUIWNXn21d3Y__Rww68007qLgk/edit?usp=sharing"
+      },
+      "_tags": [
+        "wayfinding"
+      ],
+      "x": 42,
+      "orientation": 0,
+      "y": 10,
+      "color": "a",
+      "width": 1
+    },
+    {
+      "type": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "orientation": 0,
+      "scale": 1,
+      "height": 1,
+      "y": 10,
+      "properties": {
+        "url": "https://docs.google.com/document/d/1jQ_Syvv97r0x-ndERAUIWNXn21d3Y__Rww68007qLgk/edit?usp=sharing"
+      },
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "_name": "Blank",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "_tags": [
+        "wayfinding"
+      ],
+      "color": "a",
+      "width": 1,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_f17a3080-987d-4f7e-86d2-42fa3fb26a1d",
+      "x": 45
+    },
+    {
+      "templateId": "Bulletin (Note) - BgaTeaDUwpoAobpTSTwOU",
+      "type": 6,
+      "previewMessage": "Directions",
+      "_name": "Bulletin (Note)",
+      "distThreshold": 1,
+      "color": "a",
+      "orientation": 0,
+      "id": "Bulletin (Note) - BgaTeaDUwpoAobpTSTwOU_a0f87ca1-7fac-42e4-8489-6613a1343f44",
+      "scale": 1,
+      "_tags": [
+        "social",
+        "office",
+        "education",
+        "conference",
+        "wayfinding",
+        "presentation"
+      ],
+      "y": 16,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9gj397UrtBVY8p8N?alt=media&token=a17bbbe2-addd-482f-9e19-a62df551cefa",
+      "height": 2,
+      "x": 25,
+      "properties": {
+        "message": "Please pick a seat, click on the laptop for directions.  Work with your group."
+      },
+      "width": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fy60vsjgPcDjantPk?alt=media&token=34c860f3-140b-4e46-8f9f-02c4d563c7ae"
+    },
+    {
+      "height": 2,
+      "_tags": [
+        "social",
+        "office",
+        "education",
+        "conference",
+        "wayfinding",
+        "presentation"
+      ],
+      "previewMessage": "Directions",
+      "color": "a",
+      "orientation": 0,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fy60vsjgPcDjantPk?alt=media&token=34c860f3-140b-4e46-8f9f-02c4d563c7ae",
+      "type": 6,
+      "id": "Bulletin (Note) - BgaTeaDUwpoAobpTSTwOU_5a5ef582-f03f-4434-ae3e-12c8602c61de",
+      "scale": 1,
+      "templateId": "Bulletin (Note) - BgaTeaDUwpoAobpTSTwOU",
+      "x": 7,
+      "properties": {
+        "message": "Please pick a seat, click on the laptop for directions.  Work with your group."
+      },
+      "width": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9gj397UrtBVY8p8N?alt=media&token=a17bbbe2-addd-482f-9e19-a62df551cefa",
+      "y": 19,
+      "_name": "Bulletin (Note)",
+      "distThreshold": 1
+    },
+    {
+      "_tags": [
+        "social",
+        "office",
+        "education",
+        "conference",
+        "wayfinding",
+        "presentation"
+      ],
+      "_name": "Bulletin (Note)",
+      "y": 8,
+      "x": 27,
+      "height": 2,
+      "width": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F9gj397UrtBVY8p8N?alt=media&token=a17bbbe2-addd-482f-9e19-a62df551cefa",
+      "scale": 1,
+      "id": "Bulletin (Note) - BgaTeaDUwpoAobpTSTwOU_490cc580-f597-4d09-a3d3-9468e11e529a",
+      "color": "a",
+      "templateId": "Bulletin (Note) - BgaTeaDUwpoAobpTSTwOU",
+      "type": 6,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fy60vsjgPcDjantPk?alt=media&token=34c860f3-140b-4e46-8f9f-02c4d563c7ae",
+      "distThreshold": 1,
+      "previewMessage": "Directions",
+      "properties": {
+        "message": "Please pick a seat, click on the laptop for directions.  Work with your group."
+      },
+      "orientation": 0
+    },
+    {
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "height": 1,
+      "_name": "Blank",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_0a648d6e-b651-4e03-941d-510c9feb3899",
+      "y": 16,
+      "previewMessage": "Press X To find out who - \"Come on Down\"",
+      "color": "a",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "x": 9,
+      "_tags": [
+        "wayfinding"
+      ],
+      "distThreshold": "2",
+      "scale": 1,
+      "orientation": 0,
+      "properties": {
+        "url": "https://wheelofnames.com/erj-9bn"
+      },
+      "width": 1,
+      "type": 1
+    },
+    {
+      "y": 15,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "properties": {
+        "message": "You are observant!!  Just like teachers it is critical for researchers to be observant!"
+      },
+      "width": 1,
+      "x": 30,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_fc85eab0-ec6e-4321-9f02-138cf8962004",
+      "_name": "Blank",
+      "type": 6,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "color": "a",
+      "height": 1,
+      "scale": 1,
+      "orientation": 0,
+      "_tags": [
+        "wayfinding"
+      ],
+      "distThreshold": 1
+    },
+    {
+      "distThreshold": null,
+      "color": "a",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_650fe7f3-34a3-483a-9bd3-cefb106594b2",
+      "_tags": [
+        "wayfinding"
+      ],
+      "width": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "orientation": 0,
+      "height": 1,
+      "scale": 1,
+      "type": 1,
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScHuATGd2yPw9n3ZGb1qxS2EcXNPQ9RsvhMO_E0M868gHajPA/viewform?usp=sf_link"
+      },
+      "_name": "Blank",
+      "previewMessage": "Sign In",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "x": 36,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "y": 6
+    },
+    {
+      "color": "a",
+      "previewMessage": "Sign In",
+      "y": 7,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "width": 1,
+      "scale": 1,
+      "distThreshold": null,
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScHuATGd2yPw9n3ZGb1qxS2EcXNPQ9RsvhMO_E0M868gHajPA/viewform?usp=sf_link"
+      },
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "orientation": 0,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_eeb94b2e-f2d5-476d-a5fa-a89d6af85511",
+      "height": 1,
+      "x": 36,
+      "_name": "Blank",
+      "_tags": [
+        "wayfinding"
+      ],
+      "type": 1
+    },
+    {
+      "orientation": 0,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "height": 1,
+      "x": 36,
+      "color": "a",
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScHuATGd2yPw9n3ZGb1qxS2EcXNPQ9RsvhMO_E0M868gHajPA/viewform?usp=sf_link"
+      },
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_3fe26603-e18d-4ae3-bab8-5442224951b3",
+      "width": 1,
+      "type": 1,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "distThreshold": null,
+      "_name": "Blank",
+      "y": 7,
+      "scale": 1,
+      "previewMessage": "Sign In",
+      "_tags": [
+        "wayfinding"
+      ],
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8"
+    },
+    {
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLScHuATGd2yPw9n3ZGb1qxS2EcXNPQ9RsvhMO_E0M868gHajPA/viewform?usp=sf_link"
+      },
+      "type": 1,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "_name": "Blank",
+      "previewMessage": "Please Sign In",
+      "orientation": 0,
+      "x": 36,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_bb9ca096-5374-4cfd-89fc-3b06bf09a43d",
+      "width": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "scale": 1,
+      "height": 1,
+      "y": 7,
+      "distThreshold": "2",
+      "color": "a",
+      "_tags": [
+        "wayfinding"
+      ]
+    },
+    {
+      "x": 42,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_74931647-cd54-4162-9012-7612442ef2d3",
+      "type": 1,
+      "_tags": [
+        "wayfinding"
+      ],
+      "color": "a",
+      "distThreshold": "1",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "y": 24,
+      "scale": 1,
+      "properties": {
+        "url": "https://docs.google.com/document/d/179gzHkS4V_Ojp9rjFhhyGfcm7_tyrFDF_VV-rysf-18/edit?usp=sharing"
+      },
+      "previewMessage": "Research Bias",
+      "_name": "Blank",
+      "width": 1,
+      "orientation": 0,
+      "height": 1,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH"
+    },
+    {
+      "height": 1,
+      "distThreshold": 1,
+      "scale": 1,
+      "_tags": [
+        "wayfinding"
+      ],
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_3f719513-334c-4980-9b61-a8363f2b827d",
+      "orientation": 0,
+      "_name": "Blank",
+      "width": 1,
+      "x": 6,
+      "color": "a",
+      "y": 9,
+      "type": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "previewMessage": "",
+      "properties": {
+        "url": "https://app.milanote.com/1MJncp1O2lYP5X?p=xNEkZhqCHRM"
+      },
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8"
+    },
+    {
+      "properties": {
+        "url": "https://app.milanote.com/1MJncp1O2lYP5X?p=xNEkZhqCHRM"
+      },
+      "color": "a",
+      "type": 1,
+      "_tags": [
+        "wayfinding"
+      ],
+      "previewMessage": "",
+      "distThreshold": 1,
+      "height": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "width": 1,
+      "x": 9,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "_name": "Blank",
+      "y": 4,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_5ac5aaf7-dc1b-408b-ba52-ca3efb8a790a",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "scale": 1,
+      "orientation": 0
+    },
+    {
+      "_tags": [
+        "wayfinding"
+      ],
+      "width": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "type": 1,
+      "distThreshold": 1,
+      "y": 4,
+      "height": 1,
+      "_name": "Blank",
+      "color": "a",
+      "previewMessage": "",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_7978f3c4-12b7-4903-baef-4e7790b15a38",
+      "scale": 1,
+      "orientation": 0,
+      "x": 3,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "properties": {
+        "url": "https://app.milanote.com/1MJncp1O2lYP5X?p=xNEkZhqCHRM"
+      }
+    },
+    {
+      "orientation": 0,
+      "height": 1,
+      "x": 34,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "previewMessage": "Agenda",
+      "type": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "color": "a",
+      "y": 16,
+      "properties": {
+        "url": "https://docs.google.com/document/d/1nG8MOp1m5LVYcxafxTmgT2yhcXBR6t3-1MWoZSRbviU/edit?usp=sharing"
+      },
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_5c6b5aac-1f3c-44f2-a16a-947c135ef2f3",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "_name": "Blank",
+      "width": 1,
+      "distThreshold": 1,
+      "_tags": [
+        "wayfinding"
+      ],
+      "scale": 1
+    },
+    {
+      "distThreshold": 1,
+      "x": 41,
+      "color": "a",
+      "height": 1,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "type": 1,
+      "width": 1,
+      "y": 16,
+      "orientation": 0,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "previewMessage": "Agenda",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_f24a1112-cd05-4c25-93c0-18b244b6c705",
+      "_tags": [
+        "wayfinding"
+      ],
+      "_name": "Blank",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "properties": {
+        "url": "https://docs.google.com/document/d/1nG8MOp1m5LVYcxafxTmgT2yhcXBR6t3-1MWoZSRbviU/edit?usp=sharing"
+      },
+      "scale": 1
+    },
+    {
+      "width": 1,
+      "distThreshold": 1,
+      "_name": "Blank",
+      "previewMessage": "Agenda",
+      "y": 17,
+      "type": 1,
+      "properties": {
+        "url": "https://docs.google.com/document/d/1nG8MOp1m5LVYcxafxTmgT2yhcXBR6t3-1MWoZSRbviU/edit?usp=sharing"
+      },
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "scale": 1,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_7d95b448-669c-4be4-8c9a-6af8daf80093",
+      "height": 1,
+      "x": 41,
+      "_tags": [
+        "wayfinding"
+      ],
+      "color": "a",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "orientation": 0
+    },
+    {
+      "height": 1,
+      "_name": "Blank",
+      "previewMessage": "Agenda",
+      "x": 34,
+      "distThreshold": 1,
+      "properties": {
+        "url": "https://docs.google.com/document/d/1nG8MOp1m5LVYcxafxTmgT2yhcXBR6t3-1MWoZSRbviU/edit?usp=sharing"
+      },
+      "_tags": [
+        "wayfinding"
+      ],
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "orientation": 0,
+      "type": 1,
+      "y": 17,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_23cf4d65-c64e-4bce-ba64-5e8df3183d7d",
+      "width": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "scale": 1,
+      "color": "a"
+    },
+    {
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "type": 1,
+      "properties": {
+        "url": "https://docs.google.com/document/d/1jQ_Syvv97r0x-ndERAUIWNXn21d3Y__Rww68007qLgk/edit?usp=sharing"
+      },
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_62c1ac8e-3823-4831-ab7c-aef4228890a0",
+      "x": 42,
+      "scale": 1,
+      "height": 1,
+      "orientation": 0,
+      "y": 10,
+      "_name": "Blank",
+      "color": "a",
+      "_tags": [
+        "wayfinding"
+      ],
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "width": 1,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "previewMessage": "Class Resources",
+      "distThreshold": 1
+    },
+    {
+      "width": 1,
+      "x": 20,
+      "y": 24,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "_tags": [
+        "wayfinding"
+      ],
+      "properties": {
+        "url": "https://padlet.com/gameonteaching/w6ddhj5frw58vc0a"
+      },
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_ad2fb331-b665-4b6f-a09a-35c6550f940a",
+      "scale": 1,
+      "type": 1,
+      "_name": "Blank",
+      "orientation": 0,
+      "distThreshold": 1,
+      "previewMessage": "Share Your Thoughts",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "height": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "color": "a"
+    },
+    {
+      "offsetY": 0,
+      "width": 1,
+      "height": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "distThreshold": 1,
+      "properties": {
+        "url": "https://padlet.com/gameonteaching/w6ddhj5frw58vc0a"
+      },
+      "_tags": [
+        "wayfinding"
+      ],
+      "color": "a",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_3b2799cc-65a3-4890-a62f-9e89ecaa22b6",
+      "previewMessage": "Share Your Thoughts",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "orientation": 0,
+      "offsetX": 0,
+      "y": 24,
+      "_name": "Blank",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "x": 21,
+      "type": 1,
+      "scale": 1
+    },
+    {
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_13d1174f-db16-4682-a7ce-dbc2a0a38b8f",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdaCQWxusWL4gLKy9sISWqUAQCf6S_rozOEHS0KG5iF6PsVQQ/viewform?usp=sf_link"
+      },
+      "width": 1,
+      "height": 1,
+      "y": 13,
+      "type": 1,
+      "scale": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "_name": "Blank",
+      "orientation": 0,
+      "_tags": [
+        "wayfinding"
+      ],
+      "color": "a",
+      "previewMessage": "Measures",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "distThreshold": 1,
+      "x": 18
+    },
+    {
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_f8a4d396-4a5c-4190-91f9-5bff6e7787c9",
+      "distThreshold": 1,
+      "color": "a",
+      "previewMessage": "Measures",
+      "width": 1,
+      "orientation": 0,
+      "x": 24,
+      "scale": 1,
+      "y": 13,
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdaCQWxusWL4gLKy9sISWqUAQCf6S_rozOEHS0KG5iF6PsVQQ/viewform?usp=sf_link"
+      },
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "_tags": [
+        "wayfinding"
+      ],
+      "type": 1,
+      "_name": "Blank",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "height": 1,
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH"
+    },
+    {
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdaCQWxusWL4gLKy9sISWqUAQCf6S_rozOEHS0KG5iF6PsVQQ/viewform?usp=sf_link"
+      },
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "distThreshold": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "scale": 1,
+      "type": 1,
+      "_tags": [
+        "wayfinding"
+      ],
+      "previewMessage": "Measures",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_1890cb5b-9afa-47a4-9bf7-f6a74c8e6f1b",
+      "_name": "Blank",
+      "orientation": 0,
+      "height": 1,
+      "y": 9,
+      "width": 1,
+      "color": "a",
+      "x": 21
+    },
+    {
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "height": 1,
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_e119028f-19fe-45c1-b1f2-908d7e545d23",
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "scale": 1,
+      "previewMessage": "Measures",
+      "y": 5,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "color": "a",
+      "distThreshold": 1,
+      "_name": "Blank",
+      "orientation": 0,
+      "_tags": [
+        "wayfinding"
+      ],
+      "x": 18,
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdaCQWxusWL4gLKy9sISWqUAQCf6S_rozOEHS0KG5iF6PsVQQ/viewform?usp=sf_link"
+      },
+      "type": 1,
+      "width": 1
+    },
+    {
+      "templateId": "Blank - QBiYhmko0be_5JCAk5QsH",
+      "previewMessage": "Measures",
+      "orientation": 0,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FC0fYSSDwyxTJ0BZz?alt=media&token=a6d0be35-db71-4c18-98fc-64a5d35da3f8",
+      "properties": {
+        "url": "https://docs.google.com/forms/d/e/1FAIpQLSdaCQWxusWL4gLKy9sISWqUAQCf6S_rozOEHS0KG5iF6PsVQQ/viewform?usp=sf_link"
+      },
+      "x": 24,
+      "_name": "Blank",
+      "y": 5,
+      "width": 1,
+      "color": "a",
+      "type": 1,
+      "distThreshold": 1,
+      "scale": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FPGcG9m2GSI8BCixU?alt=media&token=1890032a-0726-40db-a8bb-9426871e7db8",
+      "id": "Blank - QBiYhmko0be5JCAk5QsH_240ffc05-f54f-4c7f-8f56-a33c9b5acd7e",
+      "height": 1,
+      "_tags": [
+        "wayfinding"
+      ]
+    },
+    {
+      "_tags": [
+        "decoration",
+        "decoration/eating",
+        "decorations/eating/drink",
+        "cafe",
+        "harvest moon festival"
+      ],
+      "height": 1,
+      "properties": {},
+      "orientation": 0,
+      "templateId": "BubbleTea - rIXPg0mEI2ljpgvpKfkv2",
+      "width": 1,
+      "x": 4,
+      "normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/jOJ60Ayx7eG2XvHuZoxpm",
+      "_name": "Bubble Tea",
+      "type": 0,
+      "y": 14,
+      "highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/7UTBQLkj8uvosxtor1oxg",
+      "color": "#76428a",
+      "scale": 1,
+      "id": "BubbleTea - rIXPg0mEI2ljpgvpKfkv2_616bd716-e959-4c24-abb0-bff2e38dd89d"
+    },
+    {
+      "_tags": [
+        "furniture",
+        "furniture/table",
+        "zen"
+      ],
+      "x": 33,
+      "color": "#cbdbfc",
+      "templateId": "ZenTable - wSu9PHPqY9CfpQhrx3Cpy",
+      "offsetY": 0,
+      "offsetX": 0,
+      "y": 2,
+      "height": 1,
+      "type": 0,
+      "highlighted": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/wIy3wBXfgwhpZJ9zK7buY",
+      "orientation": 0,
+      "width": 1,
+      "_name": "Zen Table (1x1)",
+      "scale": 1,
+      "id": "ZenTable - wSu9PHPqY9CfpQhrx3Cpy_15132577-9288-4aea-8279-39f3397b61b3",
+      "properties": {},
+      "normal": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/internal-dashboard/images/6rKrVIjNZT74XdZMSZe03"
+    },
+    {
+      "color": "#cbdbfc",
+      "_tags": [
+        "office",
+        "education",
+        "decoration",
+        "decoration/tabletop",
+        "appliance"
+      ],
+      "id": "Laptop - 8ZcCDnVHYfWVTU9msl4Ba_ee9a010a-ad68-4cb9-b824-d887d700e888",
+      "templateId": "Laptop - 8ZcCDnVHYfWVTU9msl4Ba",
+      "type": 1,
+      "x": 33,
+      "scale": 1,
+      "height": 1,
+      "width": 1,
+      "_name": "Laptop",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FjElLyH36e3WEx6c2?alt=media&token=adfb1246-3e4e-4e4e-826b-4defce7cb8d3",
+      "properties": {
+        "url": "https://app.mural.co/embed/989bfd04-8c03-48e5-bb54-4927bddb2741"
+      },
+      "y": 2,
+      "distThreshold": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FI3Z3omvn8LjN6nC1?alt=media&token=68a2f247-01cc-4691-83d3-7a5bf05de03c",
+      "orientation": 0
+    },
+    {
+      "previewMessage": "Press x for Edpuzzle - Confidence Intervals",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FqbDxtuJpAwjYl7ox?alt=media&token=bdc0ab0e-a632-489f-a8bd-c932c7264031",
+      "width": 1,
+      "scale": 1,
+      "_tags": [
+        "social",
+        "office",
+        "education",
+        "conference",
+        "decoration",
+        "decoration/tabletop",
+        "presentation"
+      ],
+      "height": 1,
+      "type": 1,
+      "_name": "Note",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FZV64T7uzChV9N2Vi?alt=media&token=c6de8057-b19a-48b1-835b-78c25f08426e",
+      "properties": {
+        "url": "https://edpuzzle.com/embed/media/60bf8b982a6904419bca614a"
+      },
+      "id": "Note - sCd4usANUKyXQ1ZW2yxzt_3b9c71f6-f6c9-4af2-9a64-70bb406afd7b",
+      "y": 7,
+      "color": "#cbdbfc",
+      "orientation": 0,
+      "distThreshold": 1,
+      "x": 44,
+      "templateId": "Note - sCd4usANUKyXQ1ZW2yxzt"
+    },
+    {
+      "properties": {
+        "url": "https://edpuzzle.com/embed/media/60bf8ac71703294186832e94"
+      },
+      "scale": 1,
+      "distThreshold": "2",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FqbDxtuJpAwjYl7ox?alt=media&token=bdc0ab0e-a632-489f-a8bd-c932c7264031",
+      "orientation": 0,
+      "id": "Note - sCd4usANUKyXQ1ZW2yxzt_2c086833-a5f0-474d-aa31-96b6919844fd",
+      "width": 1,
+      "_name": "Note",
+      "previewMessage": "Press x Edpuzzle - Z-Scores",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FZV64T7uzChV9N2Vi?alt=media&token=c6de8057-b19a-48b1-835b-78c25f08426e",
+      "templateId": "Note - sCd4usANUKyXQ1ZW2yxzt",
+      "x": 32,
+      "type": 1,
+      "height": 1,
+      "_tags": [
+        "social",
+        "office",
+        "education",
+        "conference",
+        "decoration",
+        "decoration/tabletop",
+        "presentation"
+      ],
+      "y": 7,
+      "color": "#cbdbfc"
+    },
+    {
+      "scale": 1,
+      "x": 10,
+      "y": 18,
+      "_name": "Spotlight Indicator",
+      "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+      "height": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FANbkR0ZD2bYE6AbN?alt=media&token=86666964-f16a-4ed1-94a6-e4995dbd49a4",
+      "type": 0,
+      "width": 1,
+      "color": "#6abe30",
+      "orientation": 0,
+      "properties": {},
+      "_tags": [
+        "effect",
+        "wayfinding",
+        "presenter",
+        "presentation"
+      ],
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fu9y69tz5tqDrs5h4?alt=media&token=9e478a7f-03b9-4a58-8608-738aeee19124",
+      "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_c7709c00-7957-4b9e-937c-f9a2333e313b"
+    },
+    {
+      "width": 1,
+      "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_009e5612-008b-4262-b912-70802b3d7859",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fu9y69tz5tqDrs5h4?alt=media&token=9e478a7f-03b9-4a58-8608-738aeee19124",
+      "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+      "_tags": [
+        "effect",
+        "wayfinding",
+        "presenter",
+        "presentation"
+      ],
+      "_name": "Spotlight Indicator",
+      "y": 9,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FANbkR0ZD2bYE6AbN?alt=media&token=86666964-f16a-4ed1-94a6-e4995dbd49a4",
+      "color": "#6abe30",
+      "x": 32,
+      "orientation": 0,
+      "scale": 1,
+      "height": 1,
+      "type": 0,
+      "properties": {}
+    },
+    {
+      "y": 26,
+      "_tags": [
+        "effect",
+        "wayfinding",
+        "presenter",
+        "presentation"
+      ],
+      "width": 1,
+      "_name": "Spotlight Indicator",
+      "orientation": 0,
+      "type": 0,
+      "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+      "height": 1,
+      "x": 26,
+      "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_b849897f-594b-4c8b-8399-62f2d44cfb99",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FANbkR0ZD2bYE6AbN?alt=media&token=86666964-f16a-4ed1-94a6-e4995dbd49a4",
+      "scale": 1,
+      "properties": {},
+      "color": "#6abe30",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fu9y69tz5tqDrs5h4?alt=media&token=9e478a7f-03b9-4a58-8608-738aeee19124"
+    },
+    {
+      "orientation": 0,
+      "properties": {},
+      "scale": 1,
+      "type": 0,
+      "x": 30,
+      "width": 1,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FANbkR0ZD2bYE6AbN?alt=media&token=86666964-f16a-4ed1-94a6-e4995dbd49a4",
+      "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+      "height": 1,
+      "color": "#6abe30",
+      "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_f30e73ed-0ceb-44c9-bb46-f7efce44327a",
+      "y": 5,
+      "_tags": [
+        "effect",
+        "wayfinding",
+        "presenter",
+        "presentation"
+      ],
+      "_name": "Spotlight Indicator",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fu9y69tz5tqDrs5h4?alt=media&token=9e478a7f-03b9-4a58-8608-738aeee19124"
+    },
+    {
+      "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_35a2ba90-edcb-46a2-9096-c99f0f54ec7e",
+      "scale": 1,
+      "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+      "color": "#6abe30",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FANbkR0ZD2bYE6AbN?alt=media&token=86666964-f16a-4ed1-94a6-e4995dbd49a4",
+      "x": 22,
+      "type": 0,
+      "y": 16,
+      "_name": "Spotlight Indicator",
+      "properties": {},
+      "width": 1,
+      "_tags": [
+        "effect",
+        "wayfinding",
+        "presenter",
+        "presentation"
+      ],
+      "orientation": 0,
+      "height": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fu9y69tz5tqDrs5h4?alt=media&token=9e478a7f-03b9-4a58-8608-738aeee19124"
+    },
+    {
+      "height": 1,
+      "properties": {},
+      "width": 1,
+      "_name": "Spotlight Indicator",
+      "scale": 1,
+      "color": "#6abe30",
+      "_tags": [
+        "effect",
+        "wayfinding",
+        "presenter",
+        "presentation"
+      ],
+      "templateId": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq",
+      "orientation": 0,
+      "type": 0,
+      "x": 34,
+      "id": "Spotlight Indicator - LUtzSqRsyaGGttOlrM-Lq_ac28c96f-c53d-4e85-8edb-a9dc6c38cef7",
+      "y": 20,
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FANbkR0ZD2bYE6AbN?alt=media&token=86666964-f16a-4ed1-94a6-e4995dbd49a4",
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fu9y69tz5tqDrs5h4?alt=media&token=9e478a7f-03b9-4a58-8608-738aeee19124"
+    },
+    {
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FkMr5byDq2Mad5798?alt=media&token=3b195e3f-18e1-467d-bfe4-b690aaccaf0c",
+      "orientation": 0,
+      "scale": 1,
+      "distThreshold": 2,
+      "_name": "Present",
+      "previewMessage": "Press X for Bingo - Designs for Evaluation Programs & Practice",
+      "color": "#37946e",
+      "id": "Present - M4WTmjeoeC9v4G6sgF7U1_e4020b68-b205-49d8-87fb-499dc4ec04cb",
+      "y": 17,
+      "type": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FF5XkyjJVIGbx3BlO?alt=media&token=3b7699a9-a9c3-4741-a9c7-1c6b266cc74a",
+      "_tags": [
+        "holiday",
+        "decoration",
+        "christmas",
+        "hanukkah",
+        "kwanzaa",
+        "celebration"
+      ],
+      "height": 1,
+      "x": 47,
+      "width": 1,
+      "templateId": "Present - M4WTmjeoeC9v4G6sgF7U1",
+      "properties": {
+        "url": "https://bingobaker.com#7a46b5c82920d72a"
+      }
+    },
+    {
+      "properties": {
+        "url": "https://www.gimkit.com/join/62019b3cd7c7880023fe04f4/62019af6d7c7880023fe0442"
+      },
+      "scale": 1,
+      "templateId": "FilecabinetShortNarrow - 4Z8IOon80hg1u41nWcB0a",
+      "id": "FilecabinetShortNarrow - 4Z8IOon80hg1u41nWcB0a_9f064d84-b162-49c1-8f3d-f60fbf87ee82",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2F3rr67CVmcflfhKCh?alt=media&token=c1758961-57bb-4a2c-9a7c-a60d590bfd53",
+      "previewMessage": "Press X Gimkit - Research Design",
+      "color": "#8f563b",
+      "type": 1,
+      "height": 2,
+      "x": 6,
+      "orientation": 0,
+      "distThreshold": 1,
+      "y": 14,
+      "_name": "Filecabinet (Short Narrow)",
+      "width": 1,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2Fy91BilPp5LGZQvrw?alt=media&token=9e81461f-ec0e-480d-b2b7-60f023ad30da",
+      "_tags": [
+        "furniture",
+        "furniture/storage",
+        "furniture/storage/cabinet"
+      ]
+    },
+    {
+      "width": 2,
+      "color": "#cbdbfc",
+      "highlighted": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FUuPB6OLZDv1Bz7go?alt=media&token=f430b087-1002-41a2-83bc-4162500fe835",
+      "distThreshold": 1,
+      "templateId": "Whiteboard - tOsOBPYRTh6x_dMv_tzFn",
+      "id": "Whiteboard - tOsOBPYRTh6xdMv_tzFn_7ac29fd2-87be-4099-bdfa-f74e921b1a54",
+      "height": 2,
+      "_tags": [
+        "social",
+        "office",
+        "education",
+        "conference",
+        "decoration",
+        "presentation",
+        "appliance",
+        "blackboard",
+        "chalkboard"
+      ],
+      "orientation": 0,
+      "type": 1,
+      "_name": "Whiteboard",
+      "x": 15,
+      "normal": "https://cdn.gather.town/v0/b/gather-town.appspot.com/o/internal-dashboard-upload%2FYUriInJLmtzvKgtM?alt=media&token=b8253b33-08a9-4859-867f-909efd5a9bcf",
+      "scale": 1,
+      "properties": {
+        "deterministicUrlPrefix": "https://app.tryeraser.com/integration/gather/",
+        "url": "https://padlet.com/gameonteaching/w6ddhj5frw58vc0a"
+      },
+      "y": 24,
+      "previewMessage": "Press x for our Padlet"
+    }
+  ],
+  "useDrawnBG": false,
+  "mostRecentUpdateId": 5328884592441271,
+  "backgroundImagePath": "https://cdn.gather.town/storage.googleapis.com/gather-town.appspot.com/uploads/uNgdgQazz4WFdTEG/kwICmjKJ4qoCgxemIpfwGj",
+  "version": "v2.0.2",
+  "updatedAt": "2022-02-08T03:55:23.925Z",
+  "announcer": [
+    {
+      "y": 16,
+      "x": 22
+    },
+    {
+      "y": 9,
+      "x": 32
+    },
+    {
+      "x": 10,
+      "y": 18
+    },
+    {
+      "y": 5,
+      "x": 30
+    },
+    {
+      "x": 26,
+      "y": 26
+    },
+    {
+      "y": 20,
+      "x": 34
+    }
+  ],
+  "spaces": [
+    {
+      "colored": false,
+      "spaceId": "1",
+      "x": 2,
+      "y": 3
+    },
+    {
+      "x": 3,
+      "colored": false,
+      "spaceId": "1",
+      "y": 3
+    },
+    {
+      "colored": false,
+      "x": 4,
+      "y": 3,
+      "spaceId": "1"
+    },
+    {
+      "y": 3,
+      "colored": false,
+      "x": 5,
+      "spaceId": "1"
+    },
+    {
+      "spaceId": "1",
+      "y": 4,
+      "x": 5,
+      "colored": false
+    },
+    {
+      "x": 5,
+      "spaceId": "1",
+      "colored": false,
+      "y": 5
+    },
+    {
+      "y": 6,
+      "x": 5,
+      "colored": false,
+      "spaceId": "1"
+    },
+    {
+      "spaceId": "1",
+      "colored": false,
+      "y": 6,
+      "x": 4
+    },
+    {
+      "colored": false,
+      "spaceId": "1",
+      "y": 6,
+      "x": 3
+    },
+    {
+      "y": 6,
+      "colored": false,
+      "x": 2,
+      "spaceId": "1"
+    },
+    {
+      "x": 2,
+      "colored": false,
+      "y": 5,
+      "spaceId": "1"
+    },
+    {
+      "colored": false,
+      "x": 2,
+      "y": 4,
+      "spaceId": "1"
+    },
+    {
+      "y": 4,
+      "x": 3,
+      "colored": false,
+      "spaceId": "1"
+    },
+    {
+      "x": 4,
+      "spaceId": "1",
+      "y": 4,
+      "colored": false
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "spaceId": "1",
+      "colored": false
+    },
+    {
+      "y": 5,
+      "colored": false,
+      "spaceId": "1",
+      "x": 3
+    },
+    {
+      "spaceId": "1",
+      "x": 6,
+      "y": 18,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 3,
+      "x": 8,
+      "spaceId": "2"
+    },
+    {
+      "spaceId": "2",
+      "colored": false,
+      "y": 3,
+      "x": 9
+    },
+    {
+      "x": 10,
+      "colored": false,
+      "spaceId": "2",
+      "y": 3
+    },
+    {
+      "colored": false,
+      "y": 3,
+      "x": 11,
+      "spaceId": "2"
+    },
+    {
+      "y": 4,
+      "colored": false,
+      "spaceId": "2",
+      "x": 11
+    },
+    {
+      "y": 5,
+      "x": 11,
+      "spaceId": "2",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "spaceId": "2",
+      "y": 6,
+      "x": 11
+    },
+    {
+      "spaceId": "2",
+      "colored": false,
+      "x": 10,
+      "y": 6
+    },
+    {
+      "spaceId": "2",
+      "y": 6,
+      "colored": false,
+      "x": 9
+    },
+    {
+      "y": 6,
+      "x": 8,
+      "spaceId": "2",
+      "colored": false
+    },
+    {
+      "x": 8,
+      "colored": false,
+      "y": 5,
+      "spaceId": "2"
+    },
+    {
+      "x": 8,
+      "y": 4,
+      "colored": false,
+      "spaceId": "2"
+    },
+    {
+      "colored": false,
+      "y": 4,
+      "spaceId": "2",
+      "x": 9
+    },
+    {
+      "y": 4,
+      "x": 10,
+      "colored": false,
+      "spaceId": "2"
+    },
+    {
+      "colored": false,
+      "y": 5,
+      "x": 10,
+      "spaceId": "2"
+    },
+    {
+      "y": 5,
+      "colored": false,
+      "x": 9,
+      "spaceId": "2"
+    },
+    {
+      "y": 18,
+      "colored": false,
+      "spaceId": "2",
+      "x": 7
+    },
+    {
+      "x": 5,
+      "y": 8,
+      "colored": false,
+      "spaceId": "3"
+    },
+    {
+      "y": 8,
+      "colored": false,
+      "x": 6,
+      "spaceId": "3"
+    },
+    {
+      "colored": false,
+      "spaceId": "3",
+      "y": 8,
+      "x": 7
+    },
+    {
+      "colored": false,
+      "spaceId": "3",
+      "y": 8,
+      "x": 8
+    },
+    {
+      "y": 9,
+      "x": 8,
+      "colored": false,
+      "spaceId": "3"
+    },
+    {
+      "y": 10,
+      "spaceId": "3",
+      "x": 8,
+      "colored": false
+    },
+    {
+      "spaceId": "3",
+      "colored": false,
+      "x": 8,
+      "y": 11
+    },
+    {
+      "x": 7,
+      "colored": false,
+      "y": 11,
+      "spaceId": "3"
+    },
+    {
+      "colored": false,
+      "x": 6,
+      "spaceId": "3",
+      "y": 11
+    },
+    {
+      "spaceId": "3",
+      "colored": false,
+      "y": 11,
+      "x": 5
+    },
+    {
+      "y": 10,
+      "colored": false,
+      "x": 5,
+      "spaceId": "3"
+    },
+    {
+      "spaceId": "3",
+      "x": 5,
+      "colored": false,
+      "y": 9
+    },
+    {
+      "x": 6,
+      "y": 9,
+      "spaceId": "3",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 9,
+      "x": 7,
+      "spaceId": "3"
+    },
+    {
+      "colored": false,
+      "spaceId": "3",
+      "y": 10,
+      "x": 7
+    },
+    {
+      "y": 10,
+      "colored": false,
+      "x": 6,
+      "spaceId": "3"
+    },
+    {
+      "colored": false,
+      "spaceId": "3",
+      "x": 8,
+      "y": 18
+    },
+    {
+      "x": 2,
+      "y": 13,
+      "spaceId": "4",
+      "colored": false
+    },
+    {
+      "x": 3,
+      "spaceId": "4",
+      "colored": false,
+      "y": 13
+    },
+    {
+      "spaceId": "4",
+      "colored": false,
+      "x": 4,
+      "y": 13
+    },
+    {
+      "colored": false,
+      "x": 5,
+      "spaceId": "4",
+      "y": 13
+    },
+    {
+      "x": 6,
+      "colored": false,
+      "spaceId": "4",
+      "y": 13
+    },
+    {
+      "spaceId": "4",
+      "y": 14,
+      "colored": false,
+      "x": 6
+    },
+    {
+      "colored": false,
+      "x": 6,
+      "spaceId": "4",
+      "y": 15
+    },
+    {
+      "spaceId": "4",
+      "colored": false,
+      "y": 16,
+      "x": 6
+    },
+    {
+      "x": 5,
+      "y": 16,
+      "colored": false,
+      "spaceId": "4"
+    },
+    {
+      "y": 16,
+      "x": 4,
+      "colored": false,
+      "spaceId": "4"
+    },
+    {
+      "y": 16,
+      "x": 3,
+      "spaceId": "4",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "x": 2,
+      "y": 16,
+      "spaceId": "4"
+    },
+    {
+      "x": 2,
+      "y": 15,
+      "spaceId": "4",
+      "colored": false
+    },
+    {
+      "y": 14,
+      "x": 2,
+      "spaceId": "4",
+      "colored": false
+    },
+    {
+      "y": 14,
+      "spaceId": "4",
+      "colored": false,
+      "x": 3
+    },
+    {
+      "colored": false,
+      "spaceId": "4",
+      "y": 14,
+      "x": 4
+    },
+    {
+      "colored": false,
+      "x": 5,
+      "y": 14,
+      "spaceId": "4"
+    },
+    {
+      "x": 5,
+      "y": 15,
+      "spaceId": "4",
+      "colored": false
+    },
+    {
+      "y": 15,
+      "spaceId": "4",
+      "colored": false,
+      "x": 4
+    },
+    {
+      "y": 15,
+      "spaceId": "4",
+      "x": 3,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "spaceId": "4",
+      "y": 18,
+      "x": 9
+    },
+    {
+      "y": 3,
+      "colored": false,
+      "x": 15,
+      "spaceId": "5"
+    },
+    {
+      "x": 16,
+      "spaceId": "5",
+      "colored": false,
+      "y": 3
+    },
+    {
+      "colored": false,
+      "y": 3,
+      "spaceId": "5",
+      "x": 17
+    },
+    {
+      "y": 3,
+      "spaceId": "5",
+      "colored": false,
+      "x": 18
+    },
+    {
+      "colored": false,
+      "spaceId": "5",
+      "y": 3,
+      "x": 19
+    },
+    {
+      "x": 19,
+      "colored": false,
+      "spaceId": "5",
+      "y": 4
+    },
+    {
+      "colored": false,
+      "x": 19,
+      "spaceId": "5",
+      "y": 5
+    },
+    {
+      "spaceId": "5",
+      "y": 6,
+      "colored": false,
+      "x": 17
+    },
+    {
+      "y": 6,
+      "colored": false,
+      "x": 16,
+      "spaceId": "5"
+    },
+    {
+      "y": 6,
+      "x": 15,
+      "spaceId": "5",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "spaceId": "5",
+      "y": 5,
+      "x": 15
+    },
+    {
+      "colored": false,
+      "y": 4,
+      "spaceId": "5",
+      "x": 15
+    },
+    {
+      "spaceId": "5",
+      "colored": false,
+      "x": 16,
+      "y": 4
+    },
+    {
+      "colored": false,
+      "spaceId": "5",
+      "x": 17,
+      "y": 4
+    },
+    {
+      "x": 18,
+      "spaceId": "5",
+      "colored": false,
+      "y": 4
+    },
+    {
+      "x": 18,
+      "y": 5,
+      "colored": false,
+      "spaceId": "5"
+    },
+    {
+      "spaceId": "5",
+      "colored": false,
+      "y": 5,
+      "x": 17
+    },
+    {
+      "spaceId": "5",
+      "colored": false,
+      "y": 5,
+      "x": 16
+    },
+    {
+      "x": 18,
+      "spaceId": "5",
+      "colored": false,
+      "y": 6
+    },
+    {
+      "y": 6,
+      "spaceId": "5",
+      "x": 19,
+      "colored": false
+    },
+    {
+      "x": 15,
+      "colored": false,
+      "spaceId": "5",
+      "y": 16
+    },
+    {
+      "y": 3,
+      "x": 21,
+      "spaceId": "6",
+      "colored": false
+    },
+    {
+      "x": 22,
+      "y": 3,
+      "colored": false,
+      "spaceId": "6"
+    },
+    {
+      "x": 23,
+      "y": 3,
+      "colored": false,
+      "spaceId": "6"
+    },
+    {
+      "x": 24,
+      "colored": false,
+      "spaceId": "6",
+      "y": 3
+    },
+    {
+      "x": 25,
+      "colored": false,
+      "y": 3,
+      "spaceId": "6"
+    },
+    {
+      "colored": false,
+      "spaceId": "6",
+      "y": 4,
+      "x": 25
+    },
+    {
+      "y": 4,
+      "spaceId": "6",
+      "colored": false,
+      "x": 24
+    },
+    {
+      "colored": false,
+      "x": 23,
+      "spaceId": "6",
+      "y": 4
+    },
+    {
+      "y": 4,
+      "spaceId": "6",
+      "colored": false,
+      "x": 22
+    },
+    {
+      "spaceId": "6",
+      "colored": false,
+      "y": 4,
+      "x": 21
+    },
+    {
+      "x": 21,
+      "y": 5,
+      "spaceId": "6",
+      "colored": false
+    },
+    {
+      "spaceId": "6",
+      "colored": false,
+      "x": 22,
+      "y": 5
+    },
+    {
+      "y": 5,
+      "x": 23,
+      "colored": false,
+      "spaceId": "6"
+    },
+    {
+      "y": 5,
+      "spaceId": "6",
+      "colored": false,
+      "x": 24
+    },
+    {
+      "spaceId": "6",
+      "colored": false,
+      "x": 25,
+      "y": 5
+    },
+    {
+      "spaceId": "6",
+      "colored": false,
+      "y": 6,
+      "x": 21
+    },
+    {
+      "y": 6,
+      "spaceId": "6",
+      "x": 22,
+      "colored": false
+    },
+    {
+      "y": 6,
+      "x": 23,
+      "colored": false,
+      "spaceId": "6"
+    },
+    {
+      "x": 24,
+      "y": 6,
+      "spaceId": "6",
+      "colored": false
+    },
+    {
+      "y": 6,
+      "x": 25,
+      "spaceId": "6",
+      "colored": false
+    },
+    {
+      "x": 16,
+      "colored": false,
+      "y": 16,
+      "spaceId": "6"
+    },
+    {
+      "colored": false,
+      "spaceId": "7",
+      "y": 7,
+      "x": 18
+    },
+    {
+      "y": 7,
+      "x": 19,
+      "spaceId": "7",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 7,
+      "x": 20,
+      "spaceId": "7"
+    },
+    {
+      "spaceId": "7",
+      "y": 7,
+      "colored": false,
+      "x": 21
+    },
+    {
+      "colored": false,
+      "x": 22,
+      "y": 7,
+      "spaceId": "7"
+    },
+    {
+      "y": 8,
+      "x": 22,
+      "spaceId": "7",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 8,
+      "spaceId": "7",
+      "x": 21
+    },
+    {
+      "colored": false,
+      "x": 20,
+      "spaceId": "7",
+      "y": 8
+    },
+    {
+      "spaceId": "7",
+      "colored": false,
+      "x": 19,
+      "y": 8
+    },
+    {
+      "y": 8,
+      "colored": false,
+      "spaceId": "7",
+      "x": 18
+    },
+    {
+      "spaceId": "7",
+      "colored": false,
+      "x": 18,
+      "y": 9
+    },
+    {
+      "spaceId": "7",
+      "colored": false,
+      "y": 9,
+      "x": 19
+    },
+    {
+      "y": 9,
+      "spaceId": "7",
+      "x": 20,
+      "colored": false
+    },
+    {
+      "y": 9,
+      "colored": false,
+      "x": 21,
+      "spaceId": "7"
+    },
+    {
+      "x": 22,
+      "y": 9,
+      "spaceId": "7",
+      "colored": false
+    },
+    {
+      "spaceId": "7",
+      "y": 10,
+      "x": 22,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "spaceId": "7",
+      "y": 10,
+      "x": 21
+    },
+    {
+      "x": 20,
+      "spaceId": "7",
+      "colored": false,
+      "y": 10
+    },
+    {
+      "colored": false,
+      "x": 19,
+      "spaceId": "7",
+      "y": 10
+    },
+    {
+      "x": 18,
+      "spaceId": "7",
+      "y": 10,
+      "colored": false
+    },
+    {
+      "x": 17,
+      "colored": false,
+      "spaceId": "7",
+      "y": 16
+    },
+    {
+      "spaceId": "8",
+      "y": 11,
+      "colored": false,
+      "x": 15
+    },
+    {
+      "y": 11,
+      "spaceId": "8",
+      "x": 16,
+      "colored": false
+    },
+    {
+      "x": 17,
+      "spaceId": "8",
+      "colored": false,
+      "y": 11
+    },
+    {
+      "y": 11,
+      "spaceId": "8",
+      "colored": false,
+      "x": 18
+    },
+    {
+      "colored": false,
+      "y": 11,
+      "x": 19,
+      "spaceId": "8"
+    },
+    {
+      "y": 12,
+      "colored": false,
+      "x": 19,
+      "spaceId": "8"
+    },
+    {
+      "y": 12,
+      "x": 18,
+      "spaceId": "8",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 12,
+      "spaceId": "8",
+      "x": 17
+    },
+    {
+      "spaceId": "8",
+      "colored": false,
+      "y": 12,
+      "x": 16
+    },
+    {
+      "y": 12,
+      "spaceId": "8",
+      "colored": false,
+      "x": 15
+    },
+    {
+      "spaceId": "8",
+      "colored": false,
+      "y": 13,
+      "x": 15
+    },
+    {
+      "colored": false,
+      "x": 16,
+      "y": 13,
+      "spaceId": "8"
+    },
+    {
+      "spaceId": "8",
+      "colored": false,
+      "y": 13,
+      "x": 17
+    },
+    {
+      "spaceId": "8",
+      "colored": false,
+      "y": 13,
+      "x": 18
+    },
+    {
+      "colored": false,
+      "y": 13,
+      "spaceId": "8",
+      "x": 19
+    },
+    {
+      "x": 19,
+      "y": 14,
+      "spaceId": "8",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 14,
+      "x": 18,
+      "spaceId": "8"
+    },
+    {
+      "x": 17,
+      "spaceId": "8",
+      "y": 14,
+      "colored": false
+    },
+    {
+      "spaceId": "8",
+      "y": 14,
+      "colored": false,
+      "x": 16
+    },
+    {
+      "x": 15,
+      "y": 14,
+      "colored": false,
+      "spaceId": "8"
+    },
+    {
+      "y": 16,
+      "spaceId": "8",
+      "colored": false,
+      "x": 18
+    },
+    {
+      "y": 11,
+      "x": 21,
+      "colored": false,
+      "spaceId": "9"
+    },
+    {
+      "y": 11,
+      "colored": false,
+      "x": 22,
+      "spaceId": "9"
+    },
+    {
+      "spaceId": "9",
+      "colored": false,
+      "y": 11,
+      "x": 23
+    },
+    {
+      "colored": false,
+      "y": 11,
+      "x": 24,
+      "spaceId": "9"
+    },
+    {
+      "spaceId": "9",
+      "y": 11,
+      "colored": false,
+      "x": 25
+    },
+    {
+      "colored": false,
+      "spaceId": "9",
+      "x": 25,
+      "y": 12
+    },
+    {
+      "x": 24,
+      "colored": false,
+      "y": 12,
+      "spaceId": "9"
+    },
+    {
+      "y": 12,
+      "colored": false,
+      "x": 23,
+      "spaceId": "9"
+    },
+    {
+      "colored": false,
+      "x": 22,
+      "spaceId": "9",
+      "y": 12
+    },
+    {
+      "colored": false,
+      "spaceId": "9",
+      "y": 12,
+      "x": 21
+    },
+    {
+      "y": 13,
+      "colored": false,
+      "spaceId": "9",
+      "x": 21
+    },
+    {
+      "colored": false,
+      "x": 22,
+      "spaceId": "9",
+      "y": 13
+    },
+    {
+      "colored": false,
+      "x": 23,
+      "y": 13,
+      "spaceId": "9"
+    },
+    {
+      "spaceId": "9",
+      "y": 13,
+      "colored": false,
+      "x": 24
+    },
+    {
+      "colored": false,
+      "x": 25,
+      "y": 13,
+      "spaceId": "9"
+    },
+    {
+      "y": 14,
+      "spaceId": "9",
+      "colored": false,
+      "x": 25
+    },
+    {
+      "x": 24,
+      "spaceId": "9",
+      "y": 14,
+      "colored": false
+    },
+    {
+      "spaceId": "9",
+      "colored": false,
+      "y": 14,
+      "x": 23
+    },
+    {
+      "y": 14,
+      "colored": false,
+      "x": 22,
+      "spaceId": "9"
+    },
+    {
+      "spaceId": "9",
+      "x": 21,
+      "colored": false,
+      "y": 14
+    },
+    {
+      "colored": false,
+      "spaceId": "9",
+      "y": 16,
+      "x": 19
+    },
+    {
+      "x": 29,
+      "colored": false,
+      "spaceId": "10",
+      "y": 2
+    },
+    {
+      "y": 2,
+      "spaceId": "10",
+      "colored": false,
+      "x": 30
+    },
+    {
+      "y": 2,
+      "colored": false,
+      "x": 42,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "y": 2,
+      "x": 43,
+      "spaceId": "10"
+    },
+    {
+      "y": 2,
+      "spaceId": "10",
+      "colored": false,
+      "x": 44
+    },
+    {
+      "spaceId": "10",
+      "colored": false,
+      "y": 2,
+      "x": 45
+    },
+    {
+      "colored": false,
+      "x": 46,
+      "spaceId": "10",
+      "y": 2
+    },
+    {
+      "y": 2,
+      "colored": false,
+      "x": 47,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "y": 3,
+      "x": 47,
+      "spaceId": "10"
+    },
+    {
+      "x": 46,
+      "colored": false,
+      "spaceId": "10",
+      "y": 3
+    },
+    {
+      "spaceId": "10",
+      "x": 45,
+      "y": 3,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 3,
+      "spaceId": "10",
+      "x": 44
+    },
+    {
+      "y": 3,
+      "x": 43,
+      "colored": false,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "y": 3,
+      "spaceId": "10",
+      "x": 42
+    },
+    {
+      "x": 41,
+      "spaceId": "10",
+      "y": 3,
+      "colored": false
+    },
+    {
+      "y": 3,
+      "spaceId": "10",
+      "colored": false,
+      "x": 40
+    },
+    {
+      "colored": false,
+      "y": 3,
+      "spaceId": "10",
+      "x": 39
+    },
+    {
+      "colored": false,
+      "x": 38,
+      "y": 3,
+      "spaceId": "10"
+    },
+    {
+      "x": 37,
+      "y": 3,
+      "colored": false,
+      "spaceId": "10"
+    },
+    {
+      "y": 3,
+      "colored": false,
+      "x": 36,
+      "spaceId": "10"
+    },
+    {
+      "y": 3,
+      "spaceId": "10",
+      "colored": false,
+      "x": 35
+    },
+    {
+      "colored": false,
+      "x": 34,
+      "y": 3,
+      "spaceId": "10"
+    },
+    {
+      "x": 33,
+      "spaceId": "10",
+      "y": 3,
+      "colored": false
+    },
+    {
+      "spaceId": "10",
+      "x": 32,
+      "y": 3,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "x": 31,
+      "spaceId": "10",
+      "y": 3
+    },
+    {
+      "x": 30,
+      "colored": false,
+      "y": 3,
+      "spaceId": "10"
+    },
+    {
+      "y": 3,
+      "x": 29,
+      "spaceId": "10",
+      "colored": false
+    },
+    {
+      "x": 29,
+      "spaceId": "10",
+      "colored": false,
+      "y": 4
+    },
+    {
+      "colored": false,
+      "spaceId": "10",
+      "x": 30,
+      "y": 4
+    },
+    {
+      "colored": false,
+      "y": 4,
+      "x": 31,
+      "spaceId": "10"
+    },
+    {
+      "y": 4,
+      "spaceId": "10",
+      "colored": false,
+      "x": 32
+    },
+    {
+      "y": 4,
+      "x": 33,
+      "colored": false,
+      "spaceId": "10"
+    },
+    {
+      "y": 4,
+      "x": 34,
+      "colored": false,
+      "spaceId": "10"
+    },
+    {
+      "y": 4,
+      "spaceId": "10",
+      "colored": false,
+      "x": 35
+    },
+    {
+      "x": 36,
+      "spaceId": "10",
+      "colored": false,
+      "y": 4
+    },
+    {
+      "y": 4,
+      "colored": false,
+      "x": 37,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "spaceId": "10",
+      "x": 38,
+      "y": 4
+    },
+    {
+      "x": 39,
+      "colored": false,
+      "y": 4,
+      "spaceId": "10"
+    },
+    {
+      "y": 4,
+      "spaceId": "10",
+      "colored": false,
+      "x": 40
+    },
+    {
+      "colored": false,
+      "y": 4,
+      "x": 41,
+      "spaceId": "10"
+    },
+    {
+      "spaceId": "10",
+      "colored": false,
+      "x": 42,
+      "y": 4
+    },
+    {
+      "colored": false,
+      "y": 4,
+      "spaceId": "10",
+      "x": 43
+    },
+    {
+      "x": 44,
+      "spaceId": "10",
+      "colored": false,
+      "y": 4
+    },
+    {
+      "x": 45,
+      "spaceId": "10",
+      "colored": false,
+      "y": 4
+    },
+    {
+      "spaceId": "10",
+      "y": 4,
+      "x": 46,
+      "colored": false
+    },
+    {
+      "spaceId": "10",
+      "colored": false,
+      "x": 47,
+      "y": 4
+    },
+    {
+      "colored": false,
+      "x": 47,
+      "y": 5,
+      "spaceId": "10"
+    },
+    {
+      "y": 5,
+      "x": 46,
+      "colored": false,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "y": 5,
+      "spaceId": "10",
+      "x": 45
+    },
+    {
+      "y": 5,
+      "colored": false,
+      "spaceId": "10",
+      "x": 44
+    },
+    {
+      "y": 5,
+      "spaceId": "10",
+      "colored": false,
+      "x": 43
+    },
+    {
+      "x": 42,
+      "colored": false,
+      "spaceId": "10",
+      "y": 5
+    },
+    {
+      "x": 41,
+      "spaceId": "10",
+      "colored": false,
+      "y": 5
+    },
+    {
+      "y": 5,
+      "colored": false,
+      "x": 40,
+      "spaceId": "10"
+    },
+    {
+      "spaceId": "10",
+      "colored": false,
+      "x": 39,
+      "y": 5
+    },
+    {
+      "colored": false,
+      "x": 38,
+      "spaceId": "10",
+      "y": 5
+    },
+    {
+      "x": 37,
+      "spaceId": "10",
+      "colored": false,
+      "y": 5
+    },
+    {
+      "y": 5,
+      "x": 36,
+      "colored": false,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "spaceId": "10",
+      "y": 5,
+      "x": 35
+    },
+    {
+      "y": 5,
+      "colored": false,
+      "x": 34,
+      "spaceId": "10"
+    },
+    {
+      "spaceId": "10",
+      "x": 33,
+      "colored": false,
+      "y": 5
+    },
+    {
+      "x": 32,
+      "colored": false,
+      "spaceId": "10",
+      "y": 5
+    },
+    {
+      "x": 31,
+      "spaceId": "10",
+      "colored": false,
+      "y": 5
+    },
+    {
+      "colored": false,
+      "x": 30,
+      "y": 5,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "y": 5,
+      "x": 29,
+      "spaceId": "10"
+    },
+    {
+      "y": 16,
+      "spaceId": "10",
+      "colored": false,
+      "x": 20
+    },
+    {
+      "y": 8,
+      "x": 29,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "y": 8,
+      "x": 30,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "x": 31,
+      "colored": false,
+      "y": 8
+    },
+    {
+      "x": 32,
+      "spaceId": "11",
+      "colored": false,
+      "y": 8
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 9,
+      "x": 29
+    },
+    {
+      "colored": false,
+      "y": 9,
+      "spaceId": "11",
+      "x": 30
+    },
+    {
+      "y": 9,
+      "x": 31,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "y": 9,
+      "colored": false,
+      "x": 46,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 47,
+      "y": 9,
+      "spaceId": "11"
+    },
+    {
+      "y": 8,
+      "x": 47,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "y": 8,
+      "spaceId": "11",
+      "x": 46,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 8,
+      "x": 45,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 44,
+      "spaceId": "11",
+      "y": 8
+    },
+    {
+      "colored": false,
+      "y": 8,
+      "x": 43,
+      "spaceId": "11"
+    },
+    {
+      "y": 9,
+      "spaceId": "11",
+      "colored": false,
+      "x": 43
+    },
+    {
+      "colored": false,
+      "x": 44,
+      "spaceId": "11",
+      "y": 9
+    },
+    {
+      "y": 9,
+      "spaceId": "11",
+      "colored": false,
+      "x": 45
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 10,
+      "x": 47
+    },
+    {
+      "colored": false,
+      "x": 46,
+      "y": 10,
+      "spaceId": "11"
+    },
+    {
+      "y": 10,
+      "spaceId": "11",
+      "colored": false,
+      "x": 45
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 10,
+      "x": 44
+    },
+    {
+      "spaceId": "11",
+      "y": 10,
+      "x": 43,
+      "colored": false
+    },
+    {
+      "x": 35,
+      "spaceId": "11",
+      "colored": false,
+      "y": 10
+    },
+    {
+      "y": 10,
+      "x": 34,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "x": 33,
+      "spaceId": "11",
+      "y": 10,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 10,
+      "x": 32,
+      "spaceId": "11"
+    },
+    {
+      "x": 31,
+      "colored": false,
+      "spaceId": "11",
+      "y": 10
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 10,
+      "x": 30
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "x": 29,
+      "y": 10
+    },
+    {
+      "colored": false,
+      "x": 29,
+      "spaceId": "11",
+      "y": 11
+    },
+    {
+      "y": 11,
+      "x": 30,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "x": 32,
+      "y": 11
+    },
+    {
+      "y": 11,
+      "x": 35,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "y": 11,
+      "colored": false,
+      "x": 43,
+      "spaceId": "11"
+    },
+    {
+      "y": 11,
+      "x": 44,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 11,
+      "x": 45
+    },
+    {
+      "y": 11,
+      "colored": false,
+      "spaceId": "11",
+      "x": 46
+    },
+    {
+      "spaceId": "11",
+      "x": 47,
+      "colored": false,
+      "y": 11
+    },
+    {
+      "colored": false,
+      "y": 12,
+      "x": 30,
+      "spaceId": "11"
+    },
+    {
+      "y": 12,
+      "colored": false,
+      "x": 29,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "x": 35,
+      "y": 13
+    },
+    {
+      "x": 35,
+      "y": 12,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "y": 14,
+      "colored": false,
+      "x": 35,
+      "spaceId": "11"
+    },
+    {
+      "x": 47,
+      "y": 14,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 15,
+      "x": 35
+    },
+    {
+      "x": 47,
+      "spaceId": "11",
+      "colored": false,
+      "y": 15
+    },
+    {
+      "y": 16,
+      "colored": false,
+      "spaceId": "11",
+      "x": 35
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 16,
+      "x": 32
+    },
+    {
+      "colored": false,
+      "y": 17,
+      "x": 32,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "y": 17,
+      "colored": false,
+      "x": 47
+    },
+    {
+      "y": 18,
+      "x": 32,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "spaceId": "11",
+      "y": 18,
+      "x": 33,
+      "colored": false
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 18,
+      "x": 35
+    },
+    {
+      "colored": false,
+      "y": 17,
+      "spaceId": "11",
+      "x": 35
+    },
+    {
+      "x": 44,
+      "spaceId": "11",
+      "y": 18,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "x": 43,
+      "y": 18,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 19,
+      "x": 42
+    },
+    {
+      "colored": false,
+      "x": 35,
+      "spaceId": "11",
+      "y": 19
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "x": 34,
+      "y": 19
+    },
+    {
+      "x": 33,
+      "spaceId": "11",
+      "colored": false,
+      "y": 19
+    },
+    {
+      "y": 20,
+      "spaceId": "11",
+      "colored": false,
+      "x": 34
+    },
+    {
+      "y": 20,
+      "spaceId": "11",
+      "colored": false,
+      "x": 35
+    },
+    {
+      "y": 20,
+      "x": 42,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "x": 43,
+      "y": 19,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 16,
+      "x": 21
+    },
+    {
+      "spaceId": "11",
+      "x": 32,
+      "y": 9,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 9,
+      "x": 33
+    },
+    {
+      "x": 34,
+      "y": 9,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "y": 9,
+      "x": 35,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "x": 36,
+      "colored": false,
+      "spaceId": "11",
+      "y": 9
+    },
+    {
+      "y": 10,
+      "colored": false,
+      "spaceId": "11",
+      "x": 36
+    },
+    {
+      "colored": false,
+      "x": 36,
+      "spaceId": "11",
+      "y": 11
+    },
+    {
+      "x": 36,
+      "spaceId": "11",
+      "colored": false,
+      "y": 12
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 13,
+      "x": 36
+    },
+    {
+      "x": 36,
+      "colored": false,
+      "y": 14,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 36,
+      "y": 15,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 16,
+      "x": 36
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "x": 36,
+      "y": 17
+    },
+    {
+      "spaceId": "11",
+      "x": 36,
+      "colored": false,
+      "y": 18
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "x": 36,
+      "y": 19
+    },
+    {
+      "x": 36,
+      "spaceId": "11",
+      "colored": false,
+      "y": 20
+    },
+    {
+      "spaceId": "11",
+      "x": 37,
+      "colored": false,
+      "y": 20
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "x": 37,
+      "y": 19
+    },
+    {
+      "x": 37,
+      "colored": false,
+      "spaceId": "11",
+      "y": 18
+    },
+    {
+      "y": 17,
+      "colored": false,
+      "spaceId": "11",
+      "x": 37
+    },
+    {
+      "y": 16,
+      "colored": false,
+      "x": 37,
+      "spaceId": "11"
+    },
+    {
+      "x": 37,
+      "y": 15,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 14,
+      "x": 37,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 37,
+      "spaceId": "11",
+      "y": 13
+    },
+    {
+      "colored": false,
+      "x": 37,
+      "spaceId": "11",
+      "y": 12
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 11,
+      "x": 37
+    },
+    {
+      "x": 37,
+      "y": 10,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "x": 37,
+      "spaceId": "11",
+      "colored": false,
+      "y": 9
+    },
+    {
+      "x": 38,
+      "y": 9,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "spaceId": "11",
+      "y": 10,
+      "x": 38,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 11,
+      "spaceId": "11",
+      "x": 38
+    },
+    {
+      "y": 12,
+      "spaceId": "11",
+      "x": 38,
+      "colored": false
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 13,
+      "x": 38
+    },
+    {
+      "colored": false,
+      "x": 38,
+      "y": 14,
+      "spaceId": "11"
+    },
+    {
+      "x": 38,
+      "colored": false,
+      "y": 15,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "y": 16,
+      "spaceId": "11",
+      "x": 38
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "x": 38,
+      "y": 17
+    },
+    {
+      "y": 18,
+      "spaceId": "11",
+      "colored": false,
+      "x": 38
+    },
+    {
+      "y": 19,
+      "colored": false,
+      "x": 38,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 20,
+      "x": 38
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 20,
+      "x": 39
+    },
+    {
+      "colored": false,
+      "x": 39,
+      "spaceId": "11",
+      "y": 19
+    },
+    {
+      "colored": false,
+      "x": 39,
+      "y": 18,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 39,
+      "spaceId": "11",
+      "y": 17
+    },
+    {
+      "colored": false,
+      "x": 39,
+      "spaceId": "11",
+      "y": 16
+    },
+    {
+      "colored": false,
+      "y": 15,
+      "x": 39,
+      "spaceId": "11"
+    },
+    {
+      "y": 14,
+      "spaceId": "11",
+      "colored": false,
+      "x": 39
+    },
+    {
+      "y": 13,
+      "x": 39,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "y": 12,
+      "colored": false,
+      "spaceId": "11",
+      "x": 39
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 11,
+      "x": 39
+    },
+    {
+      "spaceId": "11",
+      "y": 10,
+      "colored": false,
+      "x": 39
+    },
+    {
+      "y": 9,
+      "x": 39,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 9,
+      "x": 40
+    },
+    {
+      "y": 10,
+      "x": 40,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "x": 40,
+      "colored": false,
+      "spaceId": "11",
+      "y": 11
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 12,
+      "x": 40
+    },
+    {
+      "x": 40,
+      "colored": false,
+      "spaceId": "11",
+      "y": 13
+    },
+    {
+      "colored": false,
+      "x": 40,
+      "spaceId": "11",
+      "y": 14
+    },
+    {
+      "spaceId": "11",
+      "y": 15,
+      "colored": false,
+      "x": 40
+    },
+    {
+      "x": 40,
+      "colored": false,
+      "y": 16,
+      "spaceId": "11"
+    },
+    {
+      "y": 17,
+      "colored": false,
+      "x": 40,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 40,
+      "y": 18,
+      "spaceId": "11"
+    },
+    {
+      "x": 40,
+      "spaceId": "11",
+      "colored": false,
+      "y": 19
+    },
+    {
+      "colored": false,
+      "y": 20,
+      "x": 40,
+      "spaceId": "11"
+    },
+    {
+      "x": 41,
+      "spaceId": "11",
+      "colored": false,
+      "y": 20
+    },
+    {
+      "y": 19,
+      "x": 41,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "y": 18,
+      "colored": false,
+      "spaceId": "11",
+      "x": 41
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 17,
+      "x": 41
+    },
+    {
+      "y": 16,
+      "colored": false,
+      "x": 41,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "y": 15,
+      "x": 41,
+      "colored": false
+    },
+    {
+      "x": 41,
+      "colored": false,
+      "y": 14,
+      "spaceId": "11"
+    },
+    {
+      "y": 13,
+      "spaceId": "11",
+      "colored": false,
+      "x": 41
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 11,
+      "x": 41
+    },
+    {
+      "colored": false,
+      "x": 41,
+      "spaceId": "11",
+      "y": 10
+    },
+    {
+      "y": 9,
+      "spaceId": "11",
+      "colored": false,
+      "x": 41
+    },
+    {
+      "y": 9,
+      "spaceId": "11",
+      "colored": false,
+      "x": 42
+    },
+    {
+      "x": 42,
+      "spaceId": "11",
+      "y": 10,
+      "colored": false
+    },
+    {
+      "y": 11,
+      "colored": false,
+      "spaceId": "11",
+      "x": 42
+    },
+    {
+      "colored": false,
+      "x": 42,
+      "spaceId": "11",
+      "y": 17
+    },
+    {
+      "colored": false,
+      "x": 42,
+      "spaceId": "11",
+      "y": 18
+    },
+    {
+      "y": 17,
+      "colored": false,
+      "spaceId": "11",
+      "x": 43
+    },
+    {
+      "y": 17,
+      "spaceId": "11",
+      "colored": false,
+      "x": 44
+    },
+    {
+      "spaceId": "11",
+      "x": 45,
+      "y": 17,
+      "colored": false
+    },
+    {
+      "colored": false,
+      "x": 45,
+      "y": 16,
+      "spaceId": "11"
+    },
+    {
+      "y": 16,
+      "spaceId": "11",
+      "x": 44,
+      "colored": false
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 16,
+      "x": 43
+    },
+    {
+      "x": 42,
+      "colored": false,
+      "y": 16,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 14,
+      "x": 42
+    },
+    {
+      "colored": false,
+      "y": 15,
+      "x": 42,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "x": 43,
+      "colored": false,
+      "y": 15
+    },
+    {
+      "x": 44,
+      "spaceId": "11",
+      "y": 15,
+      "colored": false
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "x": 45,
+      "y": 15
+    },
+    {
+      "colored": false,
+      "y": 15,
+      "spaceId": "11",
+      "x": 46
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 14,
+      "x": 46
+    },
+    {
+      "colored": false,
+      "y": 14,
+      "spaceId": "11",
+      "x": 45
+    },
+    {
+      "y": 14,
+      "x": 44,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "x": 43,
+      "colored": false,
+      "spaceId": "11",
+      "y": 14
+    },
+    {
+      "x": 42,
+      "colored": false,
+      "spaceId": "11",
+      "y": 13
+    },
+    {
+      "colored": false,
+      "y": 13,
+      "x": 43,
+      "spaceId": "11"
+    },
+    {
+      "x": 44,
+      "y": 13,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "x": 45,
+      "colored": false,
+      "spaceId": "11",
+      "y": 13
+    },
+    {
+      "x": 46,
+      "spaceId": "11",
+      "y": 13,
+      "colored": false
+    },
+    {
+      "spaceId": "11",
+      "colored": false,
+      "y": 13,
+      "x": 47
+    },
+    {
+      "y": 12,
+      "colored": false,
+      "x": 47,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "y": 12,
+      "colored": false,
+      "x": 46
+    },
+    {
+      "y": 12,
+      "x": 45,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "colored": false,
+      "y": 12,
+      "spaceId": "11",
+      "x": 44
+    },
+    {
+      "colored": false,
+      "x": 43,
+      "spaceId": "11",
+      "y": 12
+    },
+    {
+      "x": 42,
+      "colored": false,
+      "spaceId": "11",
+      "y": 12
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "x": 41,
+      "y": 12
+    },
+    {
+      "y": 11,
+      "colored": false,
+      "spaceId": "11",
+      "x": 31
+    },
+    {
+      "y": 12,
+      "spaceId": "11",
+      "colored": false,
+      "x": 31
+    },
+    {
+      "x": 32,
+      "y": 12,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 13,
+      "x": 32
+    },
+    {
+      "x": 32,
+      "y": 14,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "y": 15,
+      "x": 32,
+      "spaceId": "11"
+    },
+    {
+      "spaceId": "11",
+      "y": 17,
+      "colored": false,
+      "x": 33
+    },
+    {
+      "y": 16,
+      "x": 33,
+      "spaceId": "11",
+      "colored": false
+    },
+    {
+      "y": 15,
+      "spaceId": "11",
+      "colored": false,
+      "x": 33
+    },
+    {
+      "spaceId": "11",
+      "x": 33,
+      "colored": false,
+      "y": 14
+    },
+    {
+      "y": 13,
+      "colored": false,
+      "x": 33,
+      "spaceId": "11"
+    },
+    {
+      "x": 33,
+      "y": 12,
+      "colored": false,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 11,
+      "x": 33
+    },
+    {
+      "y": 11,
+      "spaceId": "11",
+      "x": 34,
+      "colored": false
+    },
+    {
+      "x": 34,
+      "spaceId": "11",
+      "colored": false,
+      "y": 12
+    },
+    {
+      "y": 13,
+      "spaceId": "11",
+      "colored": false,
+      "x": 34
+    },
+    {
+      "x": 34,
+      "colored": false,
+      "y": 14,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "y": 15,
+      "x": 34,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "y": 16,
+      "x": 34,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 34,
+      "spaceId": "11",
+      "y": 17
+    },
+    {
+      "y": 18,
+      "colored": false,
+      "x": 34,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "x": 46,
+      "y": 17,
+      "spaceId": "11"
+    },
+    {
+      "colored": false,
+      "spaceId": "11",
+      "y": 16,
+      "x": 46
+    },
+    {
+      "y": 16,
+      "spaceId": "11",
+      "x": 47,
+      "colored": false
+    },
+    {
+      "x": 31,
+      "colored": false,
+      "spaceId": "10",
+      "y": 2
+    },
+    {
+      "colored": false,
+      "x": 32,
+      "y": 2,
+      "spaceId": "10"
+    },
+    {
+      "spaceId": "10",
+      "colored": false,
+      "x": 33,
+      "y": 2
+    },
+    {
+      "x": 34,
+      "spaceId": "10",
+      "y": 2,
+      "colored": false
+    },
+    {
+      "x": 35,
+      "y": 2,
+      "colored": false,
+      "spaceId": "10"
+    },
+    {
+      "colored": false,
+      "x": 36,
+      "y": 2,
+      "spaceId": "10"
+    },
+    {
+      "x": 37,
+      "y": 2,
+      "spaceId": "10",
+      "colored": false
+    },
+    {
+      "spaceId": "10",
+      "colored": false,
+      "y": 2,
+      "x": 38
+    },
+    {
+      "y": 2,
+      "x": 39,
+      "spaceId": "10",
+      "colored": false
+    },
+    {
+      "x": 40,
+      "colored": false,
+      "y": 2,
+      "spaceId": "10"
+    },
+    {
+      "x": 41,
+      "y": 2,
+      "colored": false,
+      "spaceId": "10"
+    }
+  ],
+  "foregroundImagePath": "",
+  "objectSizes": 32,
+  "assets": []
+}
